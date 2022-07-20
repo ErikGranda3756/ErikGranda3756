@@ -11,27 +11,17 @@
 <br/>
 <br/>
 
-Deep Learning | Android Development | Java | Python | Competitive Programming
+Android Development | Java | Python | Competitive Programming
 
-## About :sunglasses:
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
+## Acerca de mi :sunglasses:
+Hola a todos mi nombre es Erick, me gusta mucho la técnologia , manejo algunos lenguajes y estoy en constante aprendizaje , me gusta mucho el diseño enfocado en interfaces.
 
-## Communities :dancers:
-- Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
-- Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
-- Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
+## Tecnologías :fire:
+- Ciencia de los datos.
+- Aplicaciones movil **Android (Java)**.
+- Java.
 
-## Technologies :fire:
-- Data Analysis with **Python**.
-- Data Science.
-- Mobile application development using **Android (Java)**.
-- Python.
-- Java
-- Competitive Programming.
-- Machine Learning
-- Deep Learning
-
-**Languages and Tools:**  
+**Lenguajes y Herramientas:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -46,8 +36,8 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ErikGranda3756&&show_icons=true&theme=radical&line_height=27&v=5" alt="ErikGranda3756's GitHub Stats" />
 
-##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/ashwanisng) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
+##  Contactame :speech_balloon:
+[![Gmail Badge](https://img.shields.io/badge/-erikalexander753x@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikalexander753x@gmail.com)](mailto:erikalexander753x@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@im.erck-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/im.erck/)
 
 <p align="center"> 
   Visitor count<br>
@@ -56,7 +46,4 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 
 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
 </div>
