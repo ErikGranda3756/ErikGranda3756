@@ -14,7 +14,7 @@
 Android Development | Java | Python | Competitive Programming
 
 ## Acerca de mi :sunglasses:
-Hola a todos mi nombre es Erick, me gusta mucho la técnologia , manejo algunos lenguajes y estoy en constante aprendizaje , me gusta mucho el diseño enfocado en interfaces.
+Hola a todos mi nombre es Erik, me gusta mucho la técnologia , manejo algunos lenguajes y estoy en constante aprendizaje , me gusta mucho el diseño enfocado en interfaces.
 
 ## Tecnologías :fire:
 - Ciencia de los datos.
