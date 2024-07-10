@@ -30,7 +30,7 @@ Hola a todos mi nombre es Erik, me gusta mucho la técnologia , manejo algunos l
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<a href="https://github.com/ErikGranda3756">
+<a href="https://github.com/ErickGranda3756">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikGranda3756&theme=radical&hide=glsl,python" />
 </a>
 
