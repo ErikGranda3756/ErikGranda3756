@@ -1,5 +1,5 @@
 # <a href="https://www.linkedin.com/in/ashwanisng/">Erick Alexander Granda Jimenez</a> :smiley: 
-<a href="https://github.com/ErikGranda3756">
+<a href="https://github.com/ErickGranda3756">
   <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/im.erck">
@@ -34,14 +34,14 @@ Hola a todos mi nombre es Erik, me gusta mucho la técnologia , manejo algunos l
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikGranda3756&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ErickGranda3756&&show_icons=true&theme=radical&line_height=27&v=5" alt="ErikGranda3756's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ErickGranda3756&&show_icons=true&theme=radical&line_height=27&v=5" alt="ErickGranda3756's GitHub Stats" />
 
 ##  Contactame :speech_balloon:
 [![Gmail Badge](https://img.shields.io/badge/-erikalexander753x@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikalexander753x@gmail.com)](mailto:erikalexander753x@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@im.erck-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/im.erck/)
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ErikGranda3756/count.svg" />
+  <img src="https://profile-counter.glitch.me/ErickGranda3756/count.svg" />
 </p>
 
 
