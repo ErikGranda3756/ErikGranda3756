@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/ashwanisng/">Erik Alexander Granda Jimenez</a> :smiley: 
+# <a href="https://www.linkedin.com/in/ashwanisng/">Erick Alexander Granda Jimenez</a> :smiley: 
 <a href="https://github.com/ErikGranda3756">
   <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
