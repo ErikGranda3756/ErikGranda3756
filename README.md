@@ -2,7 +2,7 @@
 ![ErickGranda3756 Banner Image](https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FBanner.png?alt=media&token=0233a45a-4d48-4ee8-adb4-995c9ba90c0c)
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FDesigner.png?alt=media&token=519f629d-1393-48f2-8e51-a11a2ec168f1">
+  <img align="right" width="50%" src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FDesigner.png?alt=media&token=519f629d-1393-48f2-8e51-a11a2ec168f1">
 </div>
 
 <!--Header Name-->
