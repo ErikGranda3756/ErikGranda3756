@@ -92,11 +92,11 @@
     <td width="50%">
       <h3 align="center">App - JGO</h3>
       <div align="center">
-        <a href="enlace_al_proyecto_3" target="_blank">
+        <a href="https://github.com/ErickGranda3756/App-JGO" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto3.png?alt=media&token=7ed14bfd-eadf-42ed-adf2-ff7680cfc63f" width="400" alt="App - JGO">
         </a>
         <p>
-          <a href="enlace_al_proyecto_3" target="_blank">
+          <a href="https://github.com/ErickGranda3756/App-JGO" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
@@ -106,11 +106,11 @@
     <td width="50%">
       <h3 align="center">Gestión De Biblioteca</h3>
       <div align="center">
-        <a href="enlace_al_proyecto_4" target="_blank">
+        <a href="https://github.com/ErickGranda3756/gslibros" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto4.png?alt=media&token=4953f81d-9134-47cc-9d23-39618325610b" width="400" alt="Gestión De Biblioteca">
         </a>
         <p>
-          <a href="enlace_al_proyecto_4" target="_blank">
+          <a href="https://github.com/ErickGranda3756/gslibros" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
