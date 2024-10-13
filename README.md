@@ -178,6 +178,22 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Blog con laravel</h3>
+      <div align="center">
+        <a href="https://github.com/ErickGranda3756/EduLaravel.git" target="_blank">
+          <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto%2010.png?alt=media&token=aadb4742-c241-422e-8826-cdf77ad4fd6b" width="400" alt="Blog con laravel">
+        </a>
+        <p>
+          <a href="https://github.com/ErickGranda3756/EduLaravel.git" target="_blank">
+            <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
+          </a>
+        </p>
+        <p>Web application developed to manage articles.</p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 
@@ -287,4 +303,4 @@
 
 
 
-Last Edited on: 10/07/2024
+Last Edited on: 13/10/2024
