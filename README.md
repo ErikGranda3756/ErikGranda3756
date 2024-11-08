@@ -19,7 +19,7 @@
 - 🤝 Actively participating in tech communities and collaborating on various projects.
 - 🚀 Always looking for new challenges and opportunities to grow as a developer.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://ErickGranda3756.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://portafolio-erik-granda.vercel.app/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
