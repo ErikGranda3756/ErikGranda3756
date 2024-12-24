@@ -46,7 +46,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,tailwind,typescript,react,angular,next,figma,xd,nodejs,express,mysql,postgres,mongo,git,vscode,postman,firebase,php,bootstrap,matlab,ai,selenium&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,tailwind,typescript,react,next,figma,xd,nodejs,mysql,postgres,mongo,git,vscode,postman,firebase,php&perline=10"  />
 </p>
 <br />
 
