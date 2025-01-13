@@ -1,5 +1,5 @@
 <!--Banner-->
-![ErickGranda3756 Banner Image](https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FBanner3.jpg?alt=media&token=de2731d1-bb3f-41f6-89ad-ea6ffba5b88a)
+![ErickGranda3756 Banner Image](https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FBanner4.png?alt=media&token=890eed55-a7c4-4d16-9ee4-f670ac61d364)
 <!--Night Owl image-->
 <div>
   <img align="right" width="50%" src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FDesigner.png?alt=media&token=519f629d-1393-48f2-8e51-a11a2ec168f1">
