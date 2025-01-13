@@ -182,11 +182,11 @@
     <td width="50%">
       <h3 align="center">Blog con laravel</h3>
       <div align="center">
-        <a href="https://github.com/ErickGranda3756/EduLaravel.git" target="_blank">
+        <a href="https://github.com/ErikGranda885/EduLaravel.git" target="_blank">
           <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2FProyecto%2010.png?alt=media&token=aadb4742-c241-422e-8826-cdf77ad4fd6b" width="400" alt="Blog con laravel">
         </a>
         <p>
-          <a href="https://github.com/ErickGranda3756/EduLaravel.git" target="_blank">
+          <a href="https://github.com/ErikGranda885/EduLaravel.git" target="_blank">
             <img src="https://img.shields.io/badge/View%20on-GitHub-blue?logo=github" alt="View on GitHub">
           </a>
         </p>
@@ -202,8 +202,8 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/ErickGranda3756/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ErickGranda3756&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  <a href="https://github.com/ErikGranda885/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ErikGranda885&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
 <br />
@@ -216,16 +216,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/ErickGranda3756">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErickGranda3756&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/ErikGranda885">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErikGranda885&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/ErickGranda3756">
-          <img align="center" src="https://streak-stats.demolab.com?user=ErickGranda3756&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/ErikGranda885">
+          <img align="center" src="https://streak-stats.demolab.com?user=ErikGranda885&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -234,16 +234,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/ErickGranda3756/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickGranda3756&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/ErikGranda885/cryptos">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ErikGranda885&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/ErickGranda3756">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ErickGranda3756&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/ErikGranda885">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ErikGranda885&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -254,7 +254,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickGranda3756&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErikGranda885&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
